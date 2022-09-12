@@ -1,9 +1,9 @@
-#Stor rubrik
+# Stor rubrik
 
 vanlig text
 
-###liten rubrik
+### liten rubrik
 
 normal text
 
-##perfekt storlek på rubrik
+## perfekt storlek på rubrik
