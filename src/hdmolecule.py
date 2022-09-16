@@ -96,6 +96,10 @@ class HDMolecule:
 
 
 def analyze_N2(distance):
+    """
+    Skriva kommentar är najs, inte skriva kommentar är bajs
+    """
+
 
     N2 = HDMolecule("N", distance)
 
