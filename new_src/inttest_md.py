@@ -22,7 +22,7 @@ class MdTests(unittest.TestCase):
         epot, ekin = hdmolecule.calcenergy(atoms)
         
         if(ekin<0):
-            self.assertTrue(false)
+            self.assertTrue(False)
         else:
             self.assertTrue(True)
             
